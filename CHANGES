@@ -1,3 +1,6 @@
+  - Support intermediate SSL certificates.
+    (Rajiv Aaron Manglani <rajiv@brontes3d.com>)
+
   - new hook chain called "SendFeatures" allows plugins to add xml
     to the stream:features stanza returned by the server
 
